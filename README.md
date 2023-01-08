@@ -45,7 +45,7 @@ To run the MWP code and start the training, update the parameters in utils/param
 [^3]: [Turkish-GloVe by inzva](https://github.com/inzva/Turkish-GloVe)
 
 ## License
-This Turkish MWP Corpora is made available under the [Open Data Commons Attribution License](http://opendatacommons.org/licenses/by/1.0/). This is a human-readable summary of the ODC-BY 1.0 license. Read the [LICENSE](LICENSE) file for details.
+This Turkish MWP Corpora and code is made available under the [Open Data Commons Attribution License](http://opendatacommons.org/licenses/by/1.0/). This is a human-readable summary of the ODC-BY 1.0 license. Read the [LICENSE](LICENSE) file for details.
 
 You are free:
 
