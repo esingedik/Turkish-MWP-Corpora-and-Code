@@ -1,0 +1,9 @@
+googletrans==3.1.0a0
+pytorch-pretrained-bert
+transformers
+pytorch
+numpy
+nltk
+gensim
+fasttext
+gdown
