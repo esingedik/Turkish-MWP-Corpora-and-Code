@@ -36,7 +36,7 @@ We constructed the final version of the corpora in JSON format, including the ``
 # Code
 Python3 and `Pytorch` library are used in MWP code. The libraries in requirements.txt need to be loaded.
 
-BERT, ConvBERT, and ELECTRA embedding models are imported from HuggingFace using AutoTokenizer. For [Word2vec](https://drive.google.com/open?id=1IBMTAGtZ4DakSCyAoA4j7Ch0Ft1aFoww)[^1], [Fasttext](https://fasttext.cc/docs/en/crawl-vectors.html)[^2], and [GloVe](https://drive.google.com/drive/folders/1q_zE2cvCf_eWDtBSrx6XJFrH3xKofbQX)[^3] embedding models, it is necessary to download the trained models binary files under the models/ folder.
+BERT, ConvBERT, and ELECTRA embedding models are imported from HuggingFace using AutoTokenizer. For [Word2vec](https://drive.google.com/open?id=1IBMTAGtZ4DakSCyAoA4j7Ch0Ft1aFoww)[^1], [Fasttext](https://fasttext.cc/docs/en/crawl-vectors.html)[^2], and [GloVe](https://drive.google.com/drive/folders/1q_zE2cvCf_eWDtBSrx6XJFrH3xKofbQX)[^3] embedding models, it is necessary to download the binary files of the trained models to the models/ folder.
 
 To run the MWP code and start the training, update the parameters in utils/param.py and run main.py in the home directory.
 
