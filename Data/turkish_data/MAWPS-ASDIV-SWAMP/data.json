@@ -330,7 +330,7 @@
 		"Answer": "8"
 	},
 	{
-		"Question": "çiğdem bir arıcıdır . geçen yıl number0 kilo bal hasat etti . bu yıl yeni kovanlar aldı ve bal hasadını number1 pound artırdı . çiğdem bu yıl kaç kilo bal topladı ?",
+		"Question": "çiğdem bir arıcıdır . geçen yıl number0 kilogram bal hasat etti . bu yıl yeni kovanlar aldı ve bal hasadını number1 kilogram artırdı . çiğdem bu yıl kaç kilogram bal topladı ?",
 		"Equation": "+ number0 number1",
 		"Numbers": "2479 6085",
 		"Answer": "8564"
@@ -684,7 +684,7 @@
 		"Answer": "0.5"
 	},
 	{
-		"Question": "bir çiftçilik malzemeleri mağazasında number0 pound tohum maliyeti number1 dolar . bir çiftçinin number2 pound tohuma ihtiyacı olsaydı , ona ne kadara mal olurdu ?",
+		"Question": "bir çiftçilik malzemeleri mağazasında number0 kilogram tohum maliyeti number1 dolar . bir çiftçinin number2 kilogram tohuma ihtiyacı olsaydı , ona ne kadara mal olurdu ?",
 		"Equation": "* / number1 number0 number2",
 		"Numbers": "2 44.68 6",
 		"Answer": "134.04"
@@ -1626,7 +1626,7 @@
 		"Answer": "63"
 	},
 	{
-		"Question": "ali ve arkadaşları sınıfları için kağıtları geri dönüştürüyorlardı . geri dönüştürdükleri her number0 pound için bir puan kazandılar . ali number1 pound geri dönüştürdüyse ve arkadaşları number2 pound geri dönüştürdüyse , kaç puan kazandılar ?",
+		"Question": "ali ve arkadaşları sınıfları için kağıtları geri dönüştürüyorlardı . geri dönüştürdükleri her number0 kilogram için bir puan kazandılar . ali number1 kilogram geri dönüştürdüyse ve arkadaşları number2 kilogram geri dönüştürdüyse , kaç puan kazandılar ?",
 		"Equation": "/ + number1 number2 number0",
 		"Numbers": "8 25 23",
 		"Answer": "6"
@@ -2658,7 +2658,7 @@
 		"Answer": "12"
 	},
 	{
-		"Question": "ebru ve babası çilek toplamaya gittiler . ebru ' nun babasının çilekleri number0 kiloydu . birlikte çilekleri number1 pound ağırlığındaydı . ebru ' nun çilekleri ne kadardı ?",
+		"Question": "ebru ve babası çilek toplamaya gittiler . ebru ' nun babasının çilekleri number0 kilogramdı . birlikte çilekleri number1 kilogram ağırlığındaydı . ebru ' nun çilekleri ne kadardı ?",
 		"Equation": "- number1 number0",
 		"Numbers": "11 30",
 		"Answer": "19"
@@ -2856,7 +2856,7 @@
 		"Answer": "10"
 	},
 	{
-		"Question": "miray number0 pound ağırlığında . hasan number1 pound ağırlığında . miray , hasan ' dan ne kadar ağırdır ?",
+		"Question": "miray number0 kilogram ağırlığında . hasan number1 kilogram ağırlığında . miray , hasan ' dan ne kadar ağırdır ?",
 		"Equation": "- number0 number1",
 		"Numbers": "59 9",
 		"Answer": "50"
@@ -3408,7 +3408,7 @@
 		"Answer": "44"
 	},
 	{
-		"Question": "ezgi ve arkadaşları sınıfları için kağıtları geri dönüştürüyorlardı . geri dönüştürdükleri her number0 pound için bir puan kazandılar . ezgi number1 pound geri dönüştürdüyse ve arkadaşları number2 pound geri dönüştürdüyse , kaç puan kazandılar ?",
+		"Question": "ezgi ve arkadaşları sınıfları için kağıtları geri dönüştürüyorlardı . geri dönüştürdükleri her number0 kilogram için bir puan kazandılar . ezgi number1 kilogram geri dönüştürdüyse ve arkadaşları number2 kilogram geri dönüştürdüyse , kaç puan kazandılar ?",
 		"Equation": "/ + number1 number2 number0",
 		"Numbers": "3 11 16",
 		"Answer": "9"
@@ -4320,7 +4320,7 @@
 		"Answer": "35"
 	},
 	{
-		"Question": "mağazada sığır eti sarsıntılı number1 pound için number0 dolardı . number2 lira alsaydın ne kadara mal olur ?",
+		"Question": "mağazada sığır eti sarsıntılı number1 kilogram için number0 dolardı . number2 lira alsaydın ne kadara mal olur ?",
 		"Equation": "* / number0 number1 number2",
 		"Numbers": "34.23 3 7",
 		"Answer": "79.87"
@@ -4404,7 +4404,7 @@
 		"Answer": "3"
 	},
 	{
-		"Question": "evin duvarları için büyük tahtaları sabitlemek için toplam number0 çivi kullanırdı . eğer her bir tahta parçasının sabitlenmesi için number1 parça çiviye ihtiyacı varsa , erol ' un evin duvarı için kaç tane tahtaya ihtiyacı vardır ?",
+		"Question": "erol evin duvarları için büyük tahtaları sabitlemek için toplam number0 çivi kullandı . eğer her bir tahta parçasının sabitlenmesi için number1 parça çiviye ihtiyacı varsa , erol ' un evin duvarı için kaç tane tahtaya ihtiyacı vardır ?",
 		"Equation": "/ number0 number1",
 		"Numbers": "4 2",
 		"Answer": "2"
@@ -4602,7 +4602,7 @@
 		"Answer": "7"
 	},
 	{
-		"Question": "her torba number0 pound portakal içerir . number1 torbada kaç kilo portakal var ?",
+		"Question": "her torba number0 kilogram portakal içerir . number1 torbada kaç kilogram portakal var ?",
 		"Equation": "* number0 number1",
 		"Numbers": "23 45",
 		"Answer": "1035"
@@ -4890,13 +4890,13 @@
 		"Answer": "11"
 	},
 	{
-		"Question": "cemile number0 pound ağırlığında . yasin number1 pound ağırlığında . cemile , yasin ' den ne kadar ağırdır ?",
+		"Question": "cemile number0 kilogram ağırlığında . yasin number1 kilogram ağırlığında . cemile , yasin ' den ne kadar ağırdır ?",
 		"Equation": "- number0 number1",
 		"Numbers": "67 52",
 		"Answer": "15"
 	},
 	{
-		"Question": "osman ' ın number0 doları var . number1 dolara bir şeker çubuğu aldı . ne kadar para kaldı ?",
+		"Question": "osman ' ın number0 doları var . number1 dolara bir şeker çubuğu aldı . ne kadar parası kaldı ?",
 		"Equation": "- number0 number1",
 		"Numbers": "3 1",
 		"Answer": "2"
@@ -5802,7 +5802,7 @@
 		"Answer": "3"
 	},
 	{
-		"Question": "mustafa ' nın kovasında number0 pound mermi vardı . bazı mermiler ekledi ve şimdi number1 pound mermiye sahip . kaç kilo ekledi ?",
+		"Question": "mustafa ' nın kovasında number0 kilogram mermi vardı . bazı mermiler ekledi ve şimdi number1 kilogram mermiye sahip . kaç kilogram ekledi ?",
 		"Equation": "- number1 number0",
 		"Numbers": "5 28",
 		"Answer": "23"
@@ -6354,7 +6354,7 @@
 		"Answer": "6"
 	},
 	{
-		"Question": "bir arı kolonisi number0 pound bal üretti , ancak ayılar number1 pound bal yedi . ne kadar bal kaldı ?",
+		"Question": "bir arı kolonisi number0 kilogram bal üretti , ancak ayılar number1 kilogram bal yedi . ne kadar bal kaldı ?",
 		"Equation": "- number0 number1",
 		"Numbers": "0.36 0.05",
 		"Answer": "0.31"
@@ -6468,7 +6468,7 @@
 		"Answer": "20"
 	},
 	{
-		"Question": "mustafa kovasını number0 kilo mermiyle doldurdu . kovasını doldurmak için number1 pound daha kabuk eklerse , kaç pound ' u vardır ?",
+		"Question": "mustafa kovasını number0 kilogram mermiyle doldurdu . kovasını doldurmak için number1 kilogram daha kabuk eklerse , kaç kilogram mermi vardır ?",
 		"Equation": "+ number0 number1",
 		"Numbers": "5 12",
 		"Answer": "17"
@@ -6648,7 +6648,7 @@
 		"Answer": "58"
 	},
 	{
-		"Question": "büşra ve arkadaşları sınıfları için kağıtları geri dönüştürüyorlardı . geri dönüştürdükleri her number0 pound için bir puan kazandılar . büşra number1 lirayı geri dönüştürdüyse ve arkadaşları number0 lirayı geri dönüştürdüyse , kaç puan kazandılar ?",
+		"Question": "büşra ve arkadaşları sınıfları için kağıtları geri dönüştürüyorlardı . geri dönüştürdükleri her number0 kilogram için bir puan kazandılar . büşra number1 kilogramı geri dönüştürdüyse ve arkadaşları number0 kilogramı geri dönüştürdüyse , kaç puan kazandılar ?",
 		"Equation": "/ + number0 number1 number0",
 		"Numbers": "3 24 3",
 		"Answer": "9"
@@ -6660,7 +6660,7 @@
 		"Answer": "2173"
 	},
 	{
-		"Question": "ezgi ve arkadaşları sınıfları için kağıtları geri dönüştürüyorlardı . geri dönüştürdükleri her number0 pound için bir puan kazandılar . ezgi number1 pound geri dönüştürdüyse ve arkadaşları number2 pound geri dönüştürdüyse , kaç puan kazandılar ?",
+		"Question": "ezgi ve arkadaşları sınıfları için kağıtları geri dönüştürüyorlardı . geri dönüştürdükleri her number0 kilogram için bir puan kazandılar . ezgi number1 kilogram geri dönüştürdüyse ve arkadaşları number2 kilogram geri dönüştürdüyse , kaç puan kazandılar ?",
 		"Equation": "/ + number1 number2 number0",
 		"Numbers": "3 11 16",
 		"Answer": "9"
@@ -7674,7 +7674,7 @@
 		"Answer": "60"
 	},
 	{
-		"Question": "evcil bir golden köpeğim var . her yıl number0 pound kazanıyor . number1 yaşında . kaç kilo ağırlığında ?",
+		"Question": "evcil bir köpeğim var . her yıl number0 kilogram ağırlaşıyor . number1 yaşında kaç kilogram ağırlığında olur ?",
 		"Equation": "* number0 number1",
 		"Numbers": "11 8",
 		"Answer": "88"
@@ -8058,7 +8058,7 @@
 		"Answer": "24"
 	},
 	{
-		"Question": "ayşe ' nin number0 kilo unu vardı . number1 pound daha alsaydı , toplam kaç pound olurdu ?",
+		"Question": "ayşe ' nin number0 kilogram unu vardı . number1 kilogram daha alsaydı , toplam kaç kilogram olurdu ?",
 		"Equation": "+ number0 number1",
 		"Numbers": "12 4",
 		"Answer": "16"
@@ -8274,7 +8274,7 @@
 		"Answer": "6"
 	},
 	{
-		"Question": "evin duvarları için büyük tahtaları dikmek için toplam number0 çivi kullanırdı . her bir tahtanın sabitlenmesi için number1 adet çivi gerekiyorsa ve ilave number2 çivi kullanıldı . erol ' un evin duvarı için kaç tahtaya ihtiyacı var ?",
+		"Question": "erol evin duvarları için number0 büyük tahta kalas kullandı . her bir kalasın sabitlenmesi için number1 çiviye ihtiyacı varsa ve ek olarak bazı küçük kalaslar için number2 çiviye ihtiyacı varsa , erol ' un evin duvarı için kaç çiviye ihtiyacı var ?",
 		"Equation": "/ - number0 number2 number1",
 		"Numbers": "11 3 8",
 		"Answer": "1"
@@ -8406,7 +8406,7 @@
 		"Answer": "238"
 	},
 	{
-		"Question": "mustafa ' nın kovasında number0 kilo mermi vardı . bazı mermiler ekledi ve şimdi number1 pound mermisi var . kaç lira eklemiştir ?",
+		"Question": "mustafa ' nın kovasında number0 kilogram mermi vardı . bazı mermiler ekledi ve şimdi number1 kilogram mermisi var . kaç mermi eklemiştir ?",
 		"Equation": "- number1 number0",
 		"Numbers": "5 28",
 		"Answer": "23"
@@ -9222,7 +9222,7 @@
 		"Answer": "111421"
 	},
 	{
-		"Question": "kutay number0 pound ağırlığında . merve number1 pound ağırlığında . zeynep number2 kilo ağırlığında . kutay merve ' den ne kadar ağırdır ?",
+		"Question": "kutay number0 kilogram ağırlığında . merve number1 kilogram ağırlığında . zeynep number2 kilogram ağırlığında . kutay merve ' den ne kadar ağırdır ?",
 		"Equation": "- number0 number1",
 		"Numbers": "87 9 8",
 		"Answer": "78"
@@ -9432,7 +9432,7 @@
 		"Answer": "33"
 	},
 	{
-		"Question": "number0 pound kum taşıyan bir kamyon , bir inşaat sahasına gidiyor ve yol boyunca number1 pound kum kaybediyor . kamyon bahçeye vardığında ne kadar kumu olur ?",
+		"Question": "number0 kilogram kum taşıyan bir kamyon , bir inşaat sahasına gidiyor ve yol boyunca number1 kilogram kum kaybediyor . kamyon bahçeye vardığında ne kadar kumu olur ?",
 		"Equation": "- number0 number1",
 		"Numbers": "4.1 2.4",
 		"Answer": "1.7"
@@ -10392,7 +10392,7 @@
 		"Answer": "50"
 	},
 	{
-		"Question": "mustafa kovasını number0 pound mermiyle doldurdu . kovasını doldurmak için number1 pound daha kabuk eklerse , kaç poundu vardır ?",
+		"Question": "mustafa kovasını number0 kilogram mermiyle doldurdu . kovasını doldurmak için number1 kilogram daha mermi eklerse , kaç mermisi vardır ?",
 		"Equation": "+ number0 number1",
 		"Numbers": "5 12",
 		"Answer": "17"
@@ -10536,7 +10536,7 @@
 		"Answer": "55"
 	},
 	{
-		"Question": "allie bir pazar partisinden sonra kalan dondurmayı saydı . number0 karton rocky road dondurması , number0 karton kurabiye hamuru dondurması ve number2 karton çilekli cheesecake dondurması vardı . ali ' nin toplam kaç karton dondurması vardı ?",
+		"Question": "aylin bir pazar partisinden sonra kalan dondurmayı saydı . number0 karton rocky road dondurması , number0 karton kurabiye hamuru dondurması ve number2 karton çilekli cheesecake dondurması vardı . ali ' nin toplam kaç karton dondurması vardı ?",
 		"Equation": "+ + number0 number0 number2",
 		"Numbers": "0.3333333333333333 0.3333333333333333 0.16666666666666666",
 		"Answer": "0.8333333333333334"
@@ -10854,7 +10854,7 @@
 		"Answer": "803"
 	},
 	{
-		"Question": "kadir number0 pirinç krispie ikramı yaptı . number1 büyük şekerleme ve number2 mini şekerleme kullandı . toplam kaç marshmallow kullanmıştır ?",
+		"Question": "kadir number0 elma şekeri ikramı yaptı . number1 çikolatalı kurabiye ve number2 üzümlü kurabiye hazırladı . toplam kaç kurabiye hazırlamıştır ?",
 		"Equation": "+ number1 number2",
 		"Numbers": "5 8 10",
 		"Answer": "18"
@@ -11202,7 +11202,7 @@
 		"Answer": "11"
 	},
 	{
-		"Question": "didem ve arkadaşları sınıfları için kağıtları geri dönüştürüyorlardı . geri dönüştürdükleri her number0 pound için bir puan kazandılar . didem number1 pound geri dönüştürdüyse ve arkadaşları number2 pound geri dönüştürdüyse , kaç puan kazandılar ?",
+		"Question": "didem ve arkadaşları sınıfları için kağıtları geri dönüştürüyorlardı . geri dönüştürdükleri her number0 kilogram için bir puan kazandılar . didem number1 kilogram geri dönüştürdüyse ve arkadaşları number2 kilogram geri dönüştürdüyse , kaç puan kazandılar ?",
 		"Equation": "/ + number1 number2 number0",
 		"Numbers": "9 20 16",
 		"Answer": "4"
@@ -11496,13 +11496,13 @@
 		"Answer": "49"
 	},
 	{
-		"Question": "dondurma parası için kıyafetlerini karıştıran orhan , ceketinde number0 dimi ve şortunda number1 dimi buldu . orhan ne kadar para buldu ?",
+		"Question": "dondurma parası için kıyafetlerini karıştıran orhan , ceketinde number0 kuruş ve şortunda number1 kuruş buldu . orhan ne kadar para buldu ?",
 		"Equation": "+ * number0 0.1 * number1 0.1",
 		"Numbers": "15 4",
 		"Answer": "1.9"
 	},
 	{
-		"Question": "bir kutu kitap number0 pound ağırlığındadır . her kitap number1 pound ağırlığındadır . kutuda kaç kitap var ?",
+		"Question": "bir kutu kitap number0 kilogram ağırlığındadır . her kitap number1 kilogram ağırlığındadır . kutuda kaç kitap var ?",
 		"Equation": "/ number0 number1",
 		"Numbers": "42 3",
 		"Answer": "14"
@@ -11682,7 +11682,7 @@
 		"Answer": "16"
 	},
 	{
-		"Question": "ebru ve babası çilek toplamaya gittiler . birlikte çilekleri number0 pound ağırlığındaydı . babasının çilekleri number1 kiloydu . ebru ' nun çilekleri ne kadardı ?",
+		"Question": "ebru ve babası çilek toplamaya gittiler . birlikte çilekleri number0 kilogram ağırlığındaydı . babasının çilekleri number1 kilogramdı . ebru ' nun çilekleri ne kadardı ?",
 		"Equation": "- number0 number1",
 		"Numbers": "20 17",
 		"Answer": "3"
@@ -12006,7 +12006,7 @@
 		"Answer": "21"
 	},
 	{
-		"Question": "bir mahalle bakkalı çikolata ve harnup şeker karışımı satıyor . çikolatanın kilosu number0 dolar ve keçiboynuzunun kilosu number1 dolar . number2 pound çikolata ve number3 pound keçiboynuzu şekeri kullanılıyorsa , karışımın pound başına maliyeti dolar cinsinden nedir ?",
+		"Question": "bir mahalle bakkalı çikolata ve harnup şeker karışımı satıyor . çikolatanın kilogramı number0 dolar ve keçiboynuzunun kilogramı number1 dolar . number2 kilogram çikolata ve number3 kilogram keçiboynuzu şekeri kullanılıyorsa , karışımın kilogram başına maliyeti dolar cinsinden nedir ?",
 		"Equation": "/ + * number0 number2 * number1 number3 + number2 number3",
 		"Numbers": "2.7 2.55 20 40",
 		"Answer": "2.6"
@@ -12186,7 +12186,7 @@
 		"Answer": "18"
 	},
 	{
-		"Question": "temel ve ceren number0 millik bir yürüyüşe çıkıyorlar . temel ' in sırt çantası number1 pound ağırlığında . ceren ' in sırt çantası number2 pound ağırlığında . ilk gün number3 kilometre yürüdüler . temel ve ceren ' in sırt çantaları arasındaki fark kaç pound ?",
+		"Question": "temel ve ceren number0 millik bir yürüyüşe çıkıyorlar . temel ' in sırt çantası number1 kilogram ağırlığında . ceren ' in sırt çantası number2 kilogram ağırlığında . ilk gün number3 kilometre yürüdüler . temel ve ceren ' in sırt çantaları arasındaki fark kaç kilogramdır ?",
 		"Equation": "- number1 number2",
 		"Numbers": "36 25 18 9",
 		"Answer": "7"
@@ -12288,7 +12288,7 @@
 		"Answer": "18"
 	},
 	{
-		"Question": "erol number0 pound ağırlığında . gülay number1 pound ağırlığında . erol , gülay ' dan ne kadar ağırdır ?",
+		"Question": "erol number0 kilogram ağırlığında . gülay number1 kilogram ağırlığında . erol , gülay ' dan ne kadar ağırdır ?",
 		"Equation": "- number0 number1",
 		"Numbers": "81 4",
 		"Answer": "77"
@@ -12942,7 +12942,7 @@
 		"Answer": "26"
 	},
 	{
-		"Question": "evin duvarları için number0 büyük tahta kalas kullanırdı . eğer her bir tahtanın sabitlenmesi için number1 adet çiviye ihtiyacı varsa ve buna ek olarak bazı küçük tahtalar için number2 çiviye ihtiyacı var . erol ' un evin duvarı için kaç çiviye ihtiyacı var ?",
+		"Question": "erol evin duvarları için number0 büyük tahta kalas kullandı . her bir kalasın sabitlenmesi için number1 çiviye ihtiyacı varsa ve buna ek olarak bazı küçük kalaslar için number2 çiviye ihtiyacı varsa , erol ' un evin duvarı için kaç çiviye ihtiyacı var ?",
 		"Equation": "+ * number0 number1 number2",
 		"Numbers": "13 17 8",
 		"Answer": "229"
@@ -13584,7 +13584,7 @@
 		"Answer": "34"
 	},
 	{
-		"Question": "zeynep ve arkadaşları sınıfları için kağıtları geri dönüştürüyorlardı . geri dönüştürdükleri her number0 pound için bir puan kazandılar . zeynep number1 pound geri dönüştürdüyse ve arkadaşları number2 pound geri dönüştürdüyse , kaç puan kazandılar ?",
+		"Question": "zeynep ve arkadaşları sınıfları için kağıtları geri dönüştürüyorlardı . geri dönüştürdükleri her number0 kilogram için bir puan kazandılar . zeynep number1 kilogram geri dönüştürdüyse ve arkadaşları number2 kilogram geri dönüştürdüyse , kaç puan kazandılar ?",
 		"Equation": "/ + number1 number2 number0",
 		"Numbers": "3 5 13",
 		"Answer": "6"
@@ -13932,7 +13932,7 @@
 		"Answer": "20"
 	},
 	{
-		"Question": "evin duvarları için number0 büyük tahta ve number1 küçük tahta kullanırdı . eğer büyük kalasların sabitlenmesi için number2 parça çiviye ihtiyaç duyulursa ve küçük kalasların birlikte number3 çiviye ihtiyacı vardır . erol ' un evin duvarı için kaç çiviye ihtiyacı var ?",
+		"Question": "erol evin duvarları için number0 büyük tahta ve number1 küçük tahta kullandı . eğer büyük kalasların sabitlenmesi için number2 parça çiviye ihtiyaç varsa ve küçük kalasların birlikte number3 çiviye ihtiyacı varsa , erol ' un evin duvarı için kaç çiviye ihtiyacı var ?",
 		"Equation": "+ number2 number3",
 		"Numbers": "12 10 15 5",
 		"Answer": "20"
@@ -14004,7 +14004,7 @@
 		"Answer": "35"
 	},
 	{
-		"Question": "torbalara doldurulacak number0 kilo kum var . her torbanın kapasitesi number1 pound ise kaç torbaya ihtiyaç vardır ?",
+		"Question": "torbalara doldurulacak number0 kilogram kum var . her torbanın kapasitesi number1 kilogram ise kaç torbaya ihtiyaç vardır ?",
 		"Equation": "/ number0 number1",
 		"Numbers": "757 65",
 		"Answer": "11.646153846153846"
@@ -14316,7 +14316,7 @@
 		"Answer": "13"
 	},
 	{
-		"Question": "marta number0 balkabağı topladı . i̇lk balkabağı number1 pound , ikinci balkabağı ise number2 pound ağırlığındaydı . number0 balkabağının ağırlığı ne kadardı ?",
+		"Question": "marta number0 balkabağı topladı . i̇lk balkabağı number1 kilogram , ikinci balkabağı ise number2 kilogram ağırlığındaydı . number0 balkabağının ağırlığı ne kadardı ?",
 		"Equation": "+ number1 number2",
 		"Numbers": "2 4 8.7 2",
 		"Answer": "12.7"
@@ -14826,13 +14826,13 @@
 		"Answer": "16"
 	},
 	{
-		"Question": "defne number0 kilo , tarık number1 kilo ağırlığındadır . defne , tarık ' tan ne kadar ağırdır ?",
+		"Question": "defne number0 kilogram , tarık number1 kilogram ağırlığındadır . defne , tarık ' tan ne kadar ağırdır ?",
 		"Equation": "- number0 number1",
 		"Numbers": "49 44",
 		"Answer": "5"
 	},
 	{
-		"Question": "sarı blok number0 pound ve yeşil blok number1 pound ağırlığındadır . sarı blok yeşil bloktan ne kadar daha ağırdır ?",
+		"Question": "sarı blok number0 kilogram ve yeşil blok number1 kilogram ağırlığındadır . sarı blok yeşil bloktan ne kadar daha ağırdır ?",
 		"Equation": "- number0 number1",
 		"Numbers": "0.6 0.4",
 		"Answer": "0.2"
@@ -15714,7 +15714,7 @@
 		"Answer": "300"
 	},
 	{
-		"Question": "donna number0 pound ağırlığında . fehmi number1 pound ağırlığında . donna , fehmi ' den ne kadar ağırdır ?",
+		"Question": "derya number0 kilogram ağırlığında . fehmi number1 kilogram ağırlığında . derya , fehmi ' den ne kadar ağırdır ?",
 		"Equation": "- number0 number1",
 		"Numbers": "69 51",
 		"Answer": "18"
@@ -15774,7 +15774,7 @@
 		"Answer": "100"
 	},
 	{
-		"Question": "profesör bir deney için iki parça metali tarttı . demir parçası number0 pound ve alüminyum parçası number1 pound ağırlığındaydı . demir parçası , alüminyum parçasından ne kadar daha ağırdı ?",
+		"Question": "profesör bir deney için iki parça metali tarttı . demir parçası number0 kilogram ve alüminyum parçası number1 kilogram ağırlığındaydı . demir parçası , alüminyum parçasından ne kadar daha ağırdı ?",
 		"Equation": "- number0 number1",
 		"Numbers": "11.166666666666666 0.8333333333333334",
 		"Answer": "10.333333333333334"
@@ -15792,7 +15792,7 @@
 		"Answer": "8"
 	},
 	{
-		"Question": "ron , bir fen dersi sırasında number0 renkli metal topları tarttı . mavi top number1 pound ağırlığında ve kahverengi top number2 pound ağırlığındaydı . ron her iki topu aynı anda teraziye koyarsa , terazi ne okur ?",
+		"Question": "reyhan , bir fen dersi sırasında number0 renkli metal topları tarttı . mavi top number1 kilogram ağırlığında ve kahverengi top number2 kilogram ağırlığındaydı . reyhan her iki topu aynı anda teraziye koyarsa , terazi ne okur ?",
 		"Equation": "+ number1 number2",
 		"Numbers": "2 6 3.12",
 		"Answer": "9.12"
@@ -15822,7 +15822,7 @@
 		"Answer": "44"
 	},
 	{
-		"Question": "adolfo number0 bloktan bir kule yaptı . biraz daha blok ekledi ve şimdi number1 bloğu var . kaç tane eklemek zorunda kaldı ?",
+		"Question": "arda number0 bloktan bir kule yaptı . biraz daha blok ekledi ve şimdi number1 bloğu var . kaç tane eklemek zorunda kaldı ?",
 		"Equation": "- number1 number0",
 		"Numbers": "35 65",
 		"Answer": "30"
@@ -15900,7 +15900,7 @@
 		"Answer": "5"
 	},
 	{
-		"Question": "akif number0 pound ağırlığında . talha number1 kilo ağırlığında . akif , talha ' dan ne kadar ağırdır ?",
+		"Question": "akif number0 kilogram ağırlığında . talha number1 kilogram ağırlığında . akif , talha ' dan ne kadar ağırdır ?",
 		"Equation": "- number0 number1",
 		"Numbers": "39 2",
 		"Answer": "37"
@@ -17052,7 +17052,7 @@
 		"Answer": "33.56"
 	},
 	{
-		"Question": "gökhan number0 kilo şeker aldı . esin ' e biraz verdikten sonra geriye number1 pound kaldı . esin ' e kaç pound verdi ?",
+		"Question": "gökhan number0 kilogram şeker aldı . esin ' e biraz verdikten sonra geriye number1 kilogram kaldı . esin ' e kaç kilogram şeker verdi ?",
 		"Equation": "- number0 number1",
 		"Numbers": "78 68",
 		"Answer": "10"
@@ -17124,7 +17124,7 @@
 		"Answer": "6"
 	},
 	{
-		"Question": "çiğdem bir arıcıdır . geçen yıl number0 kilo bal hasat etti . bu yıl yeni kovanlar aldı ve bal hasadını number1 pound artırdı . çiğdem bu yıl kaç kilo bal topladı ?",
+		"Question": "çiğdem bir arıcıdır . geçen yıl number0 kilogram bal hasat etti . bu yıl yeni kovanlar aldı ve bal hasadını number1 kilogram artırdı . çiğdem bu yıl kaç kilogram bal topladı ?",
 		"Equation": "+ number0 number1",
 		"Numbers": "2479 6085",
 		"Answer": "8564"
@@ -17334,7 +17334,7 @@
 		"Answer": "19"
 	},
 	{
-		"Question": "sibel ve arkadaşları sınıfları için kağıtları geri dönüştürüyorlardı . geri dönüştürdükleri her number0 pound için bir puan kazandılar . sibel number1 pound geri dönüştürdüyse ve arkadaşları number2 pound geri dönüştürdüyse , kaç puan kazandılar ?",
+		"Question": "sibel ve arkadaşları sınıfları için kağıtları geri dönüştürüyorlardı . geri dönüştürdükleri her number0 kilogram için bir puan kazandılar . sibel number1 kilogram geri dönüştürdüyse ve arkadaşları number2 kilogram geri dönüştürdüyse , kaç puan kazandılar ?",
 		"Equation": "/ + number1 number2 number0",
 		"Numbers": "4 14 2",
 		"Answer": "4"
@@ -19080,7 +19080,7 @@
 		"Answer": "23"
 	},
 	{
-		"Question": "şimdiye kadar , bir meyve bahçesi bu sezon toplam number0 pound taze ve donmuş meyve sattı . number1 pound donmuş meyve sattılarsa , şimdiye kadar kaç pound taze meyve satıldı ?",
+		"Question": "şimdiye kadar , bir meyve bahçesi bu sezon toplam number0 kilogram taze ve donmuş meyve sattı . number1 kilogram donmuş meyve sattılarsa , şimdiye kadar kaç kilogram taze meyve satıldı ?",
 		"Equation": "- number0 number1",
 		"Numbers": "9792 3513",
 		"Answer": "6279"
@@ -19320,7 +19320,7 @@
 		"Answer": "26"
 	},
 	{
-		"Question": "erol evin duvarları için büyük tahtalar kullanırdı . her tahtanın sabitlenmesi için number0 parça çiviye ihtiyacı var ve number1 tahta kullanacaktı . erol ' un evin duvarı için kaç çiviye ihtiyacı var ?",
+		"Question": "erol evin duvarları için büyük tahtalar kullandı . her tahtanın sabitlenmesi için number0 parça çiviye ihtiyacı var ve number1 tahta kullandı . erol ' un evin duvarı için kaç çiviye ihtiyacı var ?",
 		"Equation": "* number1 number0",
 		"Numbers": "2 16",
 		"Answer": "32"
@@ -20172,7 +20172,7 @@
 		"Answer": "5"
 	},
 	{
-		"Question": "ali ' nin kimya ders kitabı number0 pound ağırlığında ve geometri ders kitabı number1 pound ağırlığında . kimya ders kitabı geometri ders kitabından ne kadar daha ağırdır ?",
+		"Question": "ali ' nin kimya ders kitabı number0 kilogram ağırlığında ve geometri ders kitabı number1 kilogram ağırlığında . kimya ders kitabı geometri ders kitabından ne kadar daha ağırdır ?",
 		"Equation": "- number0 number1",
 		"Numbers": "7.125 0.625",
 		"Answer": "6.5"
@@ -21390,7 +21390,7 @@
 		"Answer": "515"
 	},
 	{
-		"Question": "gordon bir sınıf partisi için number0 pound meyve aldı . sınıf number1 kilo meyve yedi . meyve ne kadar ?",
+		"Question": "gökhan bir sınıf partisi için number0 kilogram meyve aldı . sınıf number1 kilo meyve yedi . meyve ne kadar ?",
 		"Equation": "- number0 number1",
 		"Numbers": "3.42 2.2",
 		"Answer": "1.22"
@@ -22752,7 +22752,7 @@
 		"Answer": "79"
 	},
 	{
-		"Question": "evin duvarları için number0 büyük tahta kalas kullanırdı . eğer her bir tahta parçasının sabitlenmesi için number1 parça çiviye ihtiyacı varsa , erol ' un evin duvarı için kaç tane tahtaya ihtiyacı vardır ?",
+		"Question": "erol evin duvarları için number0 büyük tahta kalas kullandı . eğer her bir tahta parçasının sabitlenmesi için number1 parça çiviye ihtiyacı varsa , erol ' un evin duvarı için kaç tane tahtaya ihtiyacı vardır ?",
 		"Equation": "number0",
 		"Numbers": "8 74",
 		"Answer": "8"
@@ -23328,7 +23328,7 @@
 		"Answer": "77"
 	},
 	{
-		"Question": "elmalar number1 pound için number0 dolara mal oluyorsa , aynı oranda number2 pound elmanın maliyeti nedir ?",
+		"Question": "elmalar number1 kilogram için number0 dolara mal oluyorsa , aynı oranda number2 kilogram elmanın maliyeti nedir ?",
 		"Equation": "* / number0 number1 number2",
 		"Numbers": "3.75 3 7",
 		"Answer": "8.75"
@@ -23694,7 +23694,7 @@
 		"Answer": "36"
 	},
 	{
-		"Question": "serra ve arkadaşları sınıfları için kağıtları geri dönüştürüyorlardı . geri dönüştürdükleri her number0 pound için number1 puan kazandılar . serra number2 pound geri dönüştürdüyse ve arkadaşları number3 pound geri dönüştürdüyse kaç puan kazandılar ?",
+		"Question": "serra ve arkadaşları sınıfları için kağıtları geri dönüştürüyorlardı . geri dönüştürdükleri her number0 kilogram için number1 puan kazandılar . serra number2 kilogram geri dönüştürdüyse ve arkadaşları number3 kilogram geri dönüştürdüyse kaç puan kazandılar ?",
 		"Equation": "* / + number2 number3 number0 number1",
 		"Numbers": "6 1 28 2",
 		"Answer": "5"
@@ -24666,7 +24666,7 @@
 		"Answer": "1"
 	},
 	{
-		"Question": "evin duvarları için number0 büyük ahşap kalas ve number1 küçük kalas kullanırdı . her büyük tahtanın sabitlenmesi için number2 parça çiviye ve her küçük tahtaya number3 çiviye ihtiyacı varsa . erol ' un evin duvarı için kaç tahtaya ihtiyacı var ?",
+		"Question": "erol evin duvarları için number0 büyük ahşap kalas ve number1 küçük kalas kullandı . her büyük tahtanın sabitlenmesi için number2 parça çiviye ve her küçük tahtaya number3 çiviye ihtiyacı varsa , erol ' un evin duvarı için kaç tahtaya ihtiyacı var ?",
 		"Equation": "+ number0 number1",
 		"Numbers": "12 17 14 25",
 		"Answer": "29"
